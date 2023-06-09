@@ -6,7 +6,7 @@ Home task for Bolt's Senior Data Analyst position.
 opportunities for that. *Could you suggest a course of action?*
 
 * Data is in a `.csv` in the [`/data`](data/) folder.
-* Final reports are stored as `.docx` and `.pdf` in the [`/report`](report/) folder.
+* Final reports are stored as `.pdf` in the [`/report`](report/) folder.
 * Jupyter Notebooks are in the [`/EDA`](EDA/) folder.
 
 Good luck! :dizzy:
